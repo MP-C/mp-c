@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Mario 👋
+
+- 🌍 From Portugal, living in Brussels
+- 🏥 Already transitioning from an intensive Cardiology care as Head Nurse, to development world
+- 🏫 Finished last year a Software Engineer Degree, at UAb
+- 🔭 I’m currently working on Back-end projects, in health care systems
+- 🌱 I’m currently learning all I can related with Cloud, Cybersecurity, and frameworks (in C#)
 
 <!--
 **MP-C/mp-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
