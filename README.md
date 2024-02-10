@@ -1,17 +1,31 @@
 ### Hi there, I'm Mario 👋
 
-- 🌍 From Portugal, living in Brussels
-- 🏥 Transitioning from an intensive Cardiology care as Head Nurse, to development world
+- 🌍 From Portugal, currently based in Brussels
+- 🏥 Cardiology Head Nurse turned passionate Full-Stack Developer
 - 🤸‍♂️ Full-Stack WebDevelopment ||ReactJS & Native | Node.js Express ||ASP.Net | MVC | Blazor ||HTML, CSS, JS, C, C#, Python ||SQL | Oracle ||
-- 🧭 I’m currently working on Back-end projects, in health care environment
+- 🧭 Currently focused on back-end projects in the healthcare sector
 - 🗺️ I’m currently learning all I can related with Cloud, Cybersecurity, and frameworks (in C#)
-- 🥂 Finished in 2023 a Software Engineer Degree, while working as FullStack since 2020 | Master of Public Health with a Specialization in Healthcare Management 
-- 📜 Certifications : HackerRank (SQL) | CISCO - Cybersecurity | ASP.NET | PRINCE2 | Fast MBA |
+- 🥂 Completed a Software Engineer Degree in 2023 while working full-time as a Full-Stack Developer since 2020
+- 📜 Certifications : HackerRank (SQL) | CISCO - Cybersecurity | ASP.NET | Master of Public Health with a Specialization in Healthcare Management | PRINCE2 | Fast MBA |
 - ⚡ Like doing Code games | 🎹 | ✈️ | 🏃
 - &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MarioCarvalho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-carvalho/)
 <!--
 **MP-C/mp-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+** .**
+
+** Full-Stack Developer:** I build web applications utilizing ReactJS & Native, Node.js & Express, ASP.Net MVC & Blazor, and various languages like HTML, CSS, JS, C, C#, and Python. I also have experience with SQL & Oracle databases.
+
+** Currently focused on back-end projects in the healthcare sector.**
+
+️ Expanding my knowledge in cloud computing, cybersecurity, and C# frameworks.
+
+** **
+
+** Master of Public Health with a Specialization in Healthcare Management**
+
+** Certified in:**
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
