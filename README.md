@@ -6,8 +6,7 @@
 - 🏥 Already transitioning from an intensive Cardiology care as Head Nurse, to development world
 - 🏫 Finished 2023 a Software Engineer Degree, while working as FullStack since 2020
 - ⚡ Like doing code games
-- 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mario-carvalho/))
+&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedIn-Url](https://www.linkedin.com/in/mario-carvalho/))
 <!--
 **MP-C/mp-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
