@@ -6,6 +6,7 @@
 - 🗺️ I’m currently learning all I can related with Cloud, Cybersecurity, and frameworks (in C#)
 - 🏥 Already transitioning from an intensive Cardiology care as Head Nurse, to development world
 - 🥂 Finished 2023 a Software Engineer Degree, while working as FullStack since 2020
+- 📜 Certifications : HackerRank (SQL) | CISCO - Cybersecurity | ASP.NET | PRINCE2 | Fast MBA |
 - ⚡ Like doing code games
 - &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MarioCarvalho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-carvalho/)
 <!--
