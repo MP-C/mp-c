@@ -8,7 +8,6 @@
 - ⚡ Like doing code games
 - 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mario-carvalho/))
-&nbsp;
 <!--
 **MP-C/mp-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
