@@ -1,10 +1,10 @@
 ### Hi there, I'm Mario 👋
 
 - 🌍 From Portugal, living in Brussels
+- 🏥 Transitioning from an intensive Cardiology care as Head Nurse, to development world
 - 🤸‍♂️ Full-Stack WebDevelopment ||ReactJS & Native | Node.js Express ||ASP.Net | MVC | Blazor ||HTML, CSS, JS, C, C#, Python ||SQL | Oracle ||
 - 🧭 I’m currently working on Back-end projects, in health care systems
 - 🗺️ I’m currently learning all I can related with Cloud, Cybersecurity, and frameworks (in C#)
-- 🏥 Already transitioning from an intensive Cardiology care as Head Nurse, to development world
 - 🥂 Finished 2023 a Software Engineer Degree, while working as FullStack since 2020
 - 📜 Certifications : HackerRank (SQL) | CISCO - Cybersecurity | ASP.NET | PRINCE2 | Fast MBA |
 - ⚡ Like doing Code games | 🎹 | ✈️ | 🏃
