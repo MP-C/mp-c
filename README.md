@@ -6,7 +6,7 @@
 - 🧭 Currently focused on back-end projects in the healthcare sector
 - 🗺️ I’m currently learning all I can related with Cloud, Cybersecurity, and frameworks (in C#)
 - 🥂 Completed a Software Engineer Degree in 2023 while working full-time as a Full-Stack Developer since 2020
-- 📜 Certifications : HackerRank (SQL) | CISCO - Cybersecurity | ASP.NET | Master of Public Health with a Specialization in Healthcare Management | PRINCE2 | Fast MBA |
+- 📜 Certifications : | Google - Generative AI | HackerRank (SQL) | CISCO - Cybersecurity | ASP.NET | Master of Public Health with a Specialization in Healthcare Management | PRINCE2 | Fast MBA |
 - ⚡ Like doing Code games | 🎹 | ✈️ | 🏃
 - &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MarioCarvalho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-carvalho/)
 <!--
