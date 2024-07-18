@@ -1,6 +1,6 @@
 ### Hi there, I'm Mario 👋
 
-- 🌍 From Portugal, currently based in Brussels
+- 🌍 From Portugal (Porto), living in Belgium (Brussels)
 - 🏥 Cardiology Head Nurse turned passionate Full-Stack Developer
 - 🤸‍♂️ Full-Stack WebDevelopment ||ReactJS & Native | Node.js Express ||ASP.Net | MVC | Blazor ||HTML, CSS, JS, C, C#, Python ||SQL | Oracle ||
 - 🧭 Currently focused on back-end projects in the healthcare sector
