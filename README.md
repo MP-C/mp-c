@@ -2,12 +2,12 @@
 
 - 🌍 From Portugal (Porto), living in Belgium (Brussels)
 - 🏥 Cardiology Head Nurse turned passionate Full-Stack Developer
-- 🤸‍♂️ Full-Stack WebDevelopment ||ReactJS & Native | Node.js Express ||ASP.Net | MVC | Blazor ||HTML, CSS, JS, JAVA, C#, Python ||SQL | Oracle ||
+- 🤸‍♂️ Full-Stack WebDevelopment ||ReactJS & Native | Node.js Express ||ASP.Net | MVC ||HTML, CSS, JS, JAVA, C#, Python ||SQL | Oracle ||
 - 🧭 Currently focused on back-end projects in the healthcare sector
 - 🗺️ I’m currently learning all I can related with Cloud, Cybersecurity, and frameworks (in C#)
 - 🥂 Completed a Software Engineer Degree in 2023 while working full-time as a Full-Stack Developer since 2020
 - 📜 Certifications : | Google - Generative AI | HackerRank (SQL) | CISCO - Cybersecurity | ASP.NET | Master of Public Health with a Specialization in Healthcare Management | PRINCE2 | Fast MBA |
-- ⚡ Like doing Code games | 🎹 | ✈️ | 🏃
+- ⚡ Like doing Code games and my own projects | 🎹 | ✈️ | 🏃
 - &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MarioCarvalho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-carvalho/)
 <!--
 **MP-C/mp-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
