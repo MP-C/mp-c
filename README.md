@@ -9,7 +9,7 @@
 - 📜 Certifications : Cloud AWS (on going) | Generative AI & LLM (Google) | SQL (HackerRank) | Cybersecurity (CISCO NetWorking) | ASP.NET | Master of Public Health with a Specialization in Healthcare Management | PRINCE2 | Fast MBA
 - ⚡ Like doing Code games and my own projects | 🎹 | ✈️ | 🏃
 - &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MarioCarvalho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-carvalho/)
-- &nbsp; [![Profile Badge](https://img.shields.io/badge/-MarioCarvalho-orange?style=flat&logo=Profile&logoColor=white)](https://www.marioc.eu/)
+- &nbsp; [![Profile Badge](https://img.shields.io/badge/-MarioCProfile-orange?style=flat&logo=Profile&logoColor=white)](https://www.marioc.eu/)
 <!--
 **MP-C/mp-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
